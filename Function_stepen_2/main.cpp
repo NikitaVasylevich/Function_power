@@ -3,7 +3,6 @@ using namespace std;
 
 int Power(int a, int b); //Прототип функции//Объявление фукнции
 
-
 void main()
 {
 	setlocale(LC_ALL, "Rus");
