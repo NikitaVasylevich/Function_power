@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Function_stepen_2, Configuration: Debug x64 ------
+1>Function_stepen_2.vcxproj -> D:\6. Учёба\ВБУ-223\1. C++\Function_stepen_2\Function_stepen_2\x64\Debug\Function_stepen_2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
